@@ -1,13 +1,18 @@
 from abc import ABC, abstractmethod
 
 class BrokerAdapter(ABC):
+   @abstractmethod
+    def initialize():
+       pass
     @abstractmethod 
     def login(self): 
       pass
     @abstractmethod
-    def place_order(self, *args, **kwargs):
+    def buy(self, *args, **kwargs):
         pass
-
+    @abstractmethod
+    def sell(self , *args , **kwargs):
+       pass
     @abstractmethod
     def get_ltp(self, *args, **kwargs):
         pass
