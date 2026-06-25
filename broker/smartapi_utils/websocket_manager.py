@@ -4,13 +4,9 @@ from SmartApi.smartWebSocketV2 import SmartWebSocketV2
 import time
 import datetime
 from utils.logger import logger
-from config.settings import (
-    NIFTY_FUTURE_SYMBOL,
-    NIFTY_FUTURE_TOKEN
-)
 import pytz
 import sys
-from strategy.nifty_calendar_strategy import NiftyCalendarStrategy
+from strategy.Nifty_Calendar_Strategy import NiftyCalendarStrategy
 class WebSocketManager:
 
     def __init__(
