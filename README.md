@@ -85,6 +85,10 @@ The trading engine is wrapped inside a modern **Streamlit Dashboard**, making it
 - Docker Ready
 
 ---
+# Project UML Diagram  
+![UML_DIAGRAM](https://github.com/adisri-ai/Automated-Trading-System/blob/main/UML_Diagram.png)  
+
+---  
 
 # 🏗 Project Architecture
 
