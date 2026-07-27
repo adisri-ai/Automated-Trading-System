@@ -279,7 +279,7 @@ Before expiry
 
 ![Trading Dashboard](https://github.com/adisri-ai/Automated-Trading-System/blob/main/utils/Trading_Dashboard.png)
 ![Configuration](https://github.com/adisri-ai/Automated-Trading-System/blob/main/utils/Configuration.png)
-![Current Positions](https://github.com/adisri-ai/Automated-Trading-System/blob/main/utils/Current_positions.png)
+![Current Positions](https://github.com/adisri-ai/Automated-Trading-System/blob/main/utils/Current_Positions.png)
 ![Strategy Documentation](https://github.com/adisri-ai/Automated-Trading-System/blob/main/utils/Strategy_Documentation.png)
 
 ---
