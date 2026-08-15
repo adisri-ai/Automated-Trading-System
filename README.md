@@ -25,7 +25,11 @@ The application continuously monitors the options market in real time, dynamical
 The trading engine is wrapped inside a modern **Streamlit Dashboard**, making it easy to configure, launch, and monitor.
 
 ---
-
+# Tech Stack  
+1. **Broker API** : AngelOne SmartAPI
+2. **Source Code** : Python
+3. **UI** : Streamlit
+4. **Deployment** : Docker 
 # ✨ Features
 
 ## 📊 Trading Strategy
